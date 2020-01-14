@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="register_success">ᱨᱮᱜᱤᱥᱛᱨᱟᱛᱤᱳᱱ ᱦᱳᱭ-ᱱᱟ!</string>
+    <string name="decode_error">ᱫᱮᱪᱳᱫᱮ ᱵᱦᱩᱞ, ᱵᱟᱸᱜ ᱦᱹᱭ ᱞᱮᱱᱟ!</string>
+    <string name="check_error">ᱵᱦᱩᱞ ᱭᱮᱞ-ᱛᱟᱢ, ᱵᱟᱸᱜ ᱦᱹᱭ ᱞᱮᱱᱟ!</string>
+    <string name="register_failed">ᱨᱮᱜᱤᱥᱛᱨᱟᱛᱤᱳᱱ ᱵᱟᱸᱜ ᱦᱹᱭ ᱞᱮᱱᱟ!</string>
+    <string name="already_registered">ᱨᱮᱜᱤᱥᱛᱨᱟᱛᱤᱳᱱ ᱞᱟᱦᱟ-ᱛᱮ ᱦᱳᱭ ᱠᱟᱱᱟ!</string>
+</resources>

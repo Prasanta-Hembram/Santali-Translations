@@ -41,3 +41,6 @@ Where to look for translation resources or look for reference
 Visit wesanthals.org or search online for English to Santali Dictionary or Hindi Santali Sabhdkos.
 Please use only Unicode Font....The one which is used is Noto Sans Ol Chiki.** 
 Looking Forward for your contributions.
+
+Just An updated note that the main framework file has been translated upto 80%. 300 lines still need to be translated by me,they are from line no. 1400, and other 100 lines have been left out because they complicated for me and requires someone proffessional to translate them.From line no. 921
+People can start focusing on translating the basic application like contact,weather,phone dialer,clock,calculator

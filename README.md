@@ -21,8 +21,8 @@ Let's see an Example. Suppose Say I want to translate the map or clock applicati
 The xml files look like this.
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="AAA_CONFIRMATION_CONFIRM">Confirm..Translate the word Confirm like this ᱯᱟᱠᱠᱟ ᱛ </string>
-<string name="ACCESSIBILITY_ACTIVATE_KEYBOARD_BUTTON">ᱠᱮᱭᱵᱳᱟᱨᱫ ᱪᱟᱞᱩᱤ ᱢ</string>
+<string name="AAA_CONFIRMATION_CONFIRM">Confirm..Translate the word Confirm like this ᱴᱷᱟᱹᱣᱠᱟᱹᱭ ᱢᱮ </string>
+<string name="ACCESSIBILITY_ACTIVATE_KEYBOARD_BUTTON">ᱠᱤᱵᱳᱰ ᱪᱟᱹᱞᱩᱭ ᱢᱮ</string>
 </resources>
 
 In the 25th line the word Activate Keyboard was translated.
@@ -30,10 +30,10 @@ In the 25th line the word Activate Keyboard was translated.
 Some more examples On How to form Words or Sentences ?
 
 Translating an English Word Flower, which in santhali is called baha b+a+h+a..looking the word baha we will write like this ᱵᱟᱦᱟ
-Translating an English Word Ask   , which in santali is called kuli k+u+l+i ...How we write this? In spoken word or during speaking it's not just Ask (kuli). It's Ask Him so will write Ask as Ask Him which is ( k+u+l+i m ) Now in santali we write as ᱠᱩᱞᱤ ᱢ
+Translating an English Word Ask   , which in santali is called kuli k+u+l+i ...How we write this? In spoken word or during speaking it's not just Ask (kuli). It's Ask Him so will write Ask as Ask Him which is ( k+u+l+i m ) Now in santali we write as ᱠᱩᱞᱤ ᱮᱢ
 There are many English Words which do not have a santhali word Like Remote Screen Samsung ..etc..How we will write ? We will write remote as 
-r+e+m+o+t+e ᱨᱮᱢᱳᱛᱮ     Screen as S+c+r+e+e+n ᱥᱨᱮᱮᱱ Samsung as S+a+m+u+n+g ᱥᱟᱢᱥᱩᱱᱡ
-
+r+e+m+o+t+e ᱨᱤᱢᱚᱴ     Screen as S+c+r+e+e+n ᱤᱥᱠᱨᱤᱱ Samsung as S+a+m+u+n+g ᱥᱟᱢᱥᱩᱝ
+  
 
 Final Words
 

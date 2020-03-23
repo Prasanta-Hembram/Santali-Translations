@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aquarius_info">
+        <item>ᱠᱩᱢᱵᱦ</item>
+        <item>ᱠᱩᱢᱵᱦ</item>
+        <item>20/1 - 18/2</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>ᱢᱮᱥ</item>
+        <item>ᱢᱮᱥ</item>
+        <item>21/3 - 19/4</item>
+    </string-array>
+    <string-array name="bundesliga">
+        <item>2</item>
+        <item>Bundesliga</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>ᱠᱚᱨᱠ</item>
+        <item>ᱠᱚᱨᱠ</item>
+        <item>22/6 - 22/7</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>ᱢᱠᱨ</item>
+        <item>ᱢᱠᱨ</item>
+        <item>22/12 - 19/1</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>ᱱᱳᱣᱟ ᱜᱷᱴᱱᱟ ᱜᱤ</item>
+        <item>All events in the series</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>ᱞᱟᱦᱟ ᱥᱮ</item>
+        <item>ᱛᱟᱭᱳᱢ ᱥᱮ</item>
+    </string-array>
+    <string-array name="dates">
+        <item>᱑</item>
+        <item>᱒</item>
+        <item>᱓</item>
+        <item>᱔</item>
+        <item>᱕</item>
+        <item>᱖</item>
+        <item>᱗</item>
+        <item>᱘</item>
+        <item>᱙</item>
+        <item>᱑᱐</item>
+        <item>᱑᱑</item>
+        <item>᱑᱒</item>
+        <item>᱑᱓</item>
+        <item>᱑᱔</item>
+        <item>᱑᱕</item>
+        <item>᱑᱖</item>
+        <item>᱑᱗</item>
+        <item>᱑᱘</item>
+        <item>᱑᱙</item>
+        <item>᱒᱐</item>
+        <item>᱒᱑</item>
+        <item>᱒᱒</item>
+        <item>᱒᱓</item>
+        <item>᱒᱔</item>
+        <item>᱒᱕</item>
+        <item>᱒᱖</item>
+        <item>᱒᱗</item>
+        <item>᱒᱘</item>
+        <item>᱒᱙</item>
+        <item>᱓᱐</item>
+        <item>᱓᱑</item>
+    </string-array>
+    <string-array name="default_reminder_labels">
+        <item>At event time</item>
+        <item>᱕ ᱢᱤᱸᱚᱛ ᱞᱟᱦᱟ ᱨᱮ</item>
+        <item>᱑᱕ ᱢᱤᱸᱚᱛ ᱞᱟᱦᱟ ᱨᱮ</item>
+        <item>᱓᱐ ᱢᱤᱸᱚᱛ ᱞᱟᱦᱟ ᱨᱮ</item>
+        <item>᱑ ᱜᱦᱳᱸᱛᱟ ᱞᱟᱦᱟ ᱨᱮ</item>
+        <item>᱔ ᱜᱦᱳᱸᱛᱟ ᱞᱟᱦᱟ ᱨᱮ</item>
+        <item>᱑ ᱫᱤᱱ ᱞᱟᱦᱟ ᱨᱮ</item>
+        <item>᱒ ᱫᱤᱱ ᱞᱟᱦᱟ ᱨᱮ</item>
+        <item>᱑ ᱥᱳᱯᱛᱟᱦ ᱞᱟᱦᱟ ᱨᱮ</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Only this event</item>
+        <item>This and future events</item>
+        <item>All events</item>
+    </string-array>
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
+    <string-array name="gemini_info">
+        <item>ᱢᱤᱛᱦᱩᱱ</item>
+        <item>ᱢᱤᱛᱦᱩᱱ</item>
+        <item>21/5 - 21/6</item>
+    </string-array>
+    <string-array name="la_liga">
+        <item>3</item>
+        <item>ᱞᱟ ᱞᱤᱜᱟ</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>ᱥᱤᱸᱜ</item>
+        <item>ᱥᱤᱸᱜ</item>
+        <item>23/7 - 22/8</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>ᱛᱩᱞᱟ</item>
+        <item>ᱛᱩᱞᱟ</item>
+        <item>23/9 - 23/10</item>
+    </string-array>
+    <string-array name="ligue_1">
+        <item>5</item>
+        <item>ᱞᱤᱜ ᱑</item>
+    </string-array>
+    <string-array name="panchang_weeks">
+        <item>ᱥᱤᱸᱜᱤ</item>
+        <item>ᱳᱛᱮ</item>
+        <item>ᱵᱟᱞᱮ</item>
+        <item>ᱥᱚᱜᱩᱱ</item>
+        <item>ᱥᱚᱨᱫᱤ</item>
+        <item>ᱡᱨᱩᱢ</item>
+        <item>ᱱᱩᱦᱩᱢ</item>
+    </string-array>
+    <string-array name="pisces_info">
+        <item>ᱢᱤᱱ</item>
+        <item>ᱢᱤᱱ</item>
+        <item>19/2 - 20/3</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>ᱥᱳᱵ ᱠᱦᱳᱱ</item>
+        <item>Only when ringer is silenced</item>
+        <item>ᱠᱠᱦᱳᱱ ᱦᱳ ᱵᱟ</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Region default</item>
+        <item>ᱱᱩᱦᱩᱢ</item>
+        <item>ᱥᱤᱸᱜᱤ</item>
+        <item>ᱳᱛᱮ</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>᱑st</item>
+        <item>᱒nd</item>
+        <item>᱓rd</item>
+        <item>᱔th</item>
+        <item>᱕th</item>
+        <item>᱖th</item>
+        <item>᱗th</item>
+        <item>᱘th</item>
+        <item>᱙th</item>
+        <item>᱑᱐th</item>
+        <item>᱑᱑th</item>
+        <item>᱑᱒th</item>
+        <item>᱑᱓th</item>
+        <item>᱑᱔th</item>
+        <item>᱑᱕th</item>
+        <item>᱑᱖th</item>
+        <item>᱑᱗th</item>
+        <item>᱑᱘th</item>
+        <item>᱑᱙th</item>
+        <item>᱒᱐th</item>
+        <item>᱒᱑st</item>
+        <item>᱒᱒nd</item>
+        <item>᱒᱓rd</item>
+        <item>᱒᱔th</item>
+        <item>᱒᱕th</item>
+        <item>᱒᱖th</item>
+        <item>᱒᱗th</item>
+        <item>᱒᱘th</item>
+        <item>᱒᱙th</item>
+        <item>᱓᱐th</item>
+        <item>᱓᱑st</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>ᱠᱠᱦᱳᱱ ᱦᱳ ᱵᱟ</item>
+        <item>ᱥᱚᱢᱳᱭ</item>
+        <item>ᱜᱤᱸᱛᱤ ᱢᱮ</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>ᱡᱟᱜᱽ</item>
+        <item>ᱯᱟᱹᱜᱩᱱ</item>
+        <item>ᱪᱟᱹᱛ</item>
+        <item>ᱵᱟᱹᱭᱥᱟᱹᱠ</item>
+        <item>ᱡᱮᱸᱴ</item>
+        <item>ᱟᱥᱟᱲ</item>
+        <item>ᱥᱟᱱ</item>
+        <item>ᱵᱟᱫᱚᱨ</item>
+        <item>ᱫᱟᱥᱟᱸᱭ</item>
+        <item>ᱥᱳᱦᱨᱟᱭ</item>
+        <item>ᱟᱜᱟᱲ</item>
+        <item>ᱯᱩᱥ</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>first</item>
+        <item>second</item>
+        <item>third</item>
+        <item>fourth</item>
+        <item>last</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>ᱚᱛᱮ - ᱡᱨᱩᱢ</item>
+        <item>Weekend</item>
+        <item>ᱜᱳᱴᱟ ᱦᱟᱴ</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>ᱚᱛᱮ</item>
+        <item>ᱵᱟᱞᱮ</item>
+        <item>ᱥᱚᱜᱩᱱ</item>
+        <item>ᱥᱚᱨᱫᱤ</item>
+        <item>ᱡᱨᱩᱢ</item>
+        <item>ᱱᱩᱦᱩᱢ</item>
+        <item>ᱥᱤᱸᱜᱤ</item>
+    </string-array>
+    <string-array name="repeat_countdown">
+        <item>ᱠᱠᱦᱳᱱ ᱦᱳ ᱵᱟ</item>
+        <item>ᱦᱟᱴ</item>
+        <item>ᱥᱮᱨᱢᱟ</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>ᱫᱤᱱ</item>
+        <item>ᱦᱟᱴ</item>
+        <item>ᱪᱟᱸᱫᱚ</item>
+        <item>ᱥᱮᱨᱢᱟ</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>first Monday</item>
+        <item>first Tuesday</item>
+        <item>first Wednesday</item>
+        <item>first Thursday</item>
+        <item>first Friday</item>
+        <item>first Saturday</item>
+        <item>first Sunday</item>
+        <item>second Monday</item>
+        <item>second Tuesday</item>
+        <item>second Wednesday</item>
+        <item>second Thursday</item>
+        <item>second Friday</item>
+        <item>second Saturday</item>
+        <item>second Sunday</item>
+        <item>third Monday</item>
+        <item>third Tuesday</item>
+        <item>third Wednesday</item>
+        <item>third Thursday</item>
+        <item>third Friday</item>
+        <item>third Saturday</item>
+        <item>third Sunday</item>
+        <item>fourth Monday</item>
+        <item>fourth Tuesday</item>
+        <item>fourth Wednesday</item>
+        <item>fourth Thursday</item>
+        <item>fourth Friday</item>
+        <item>fourth Saturday</item>
+        <item>fourth Sunday</item>
+        <item>last Monday</item>
+        <item>last Tuesday</item>
+        <item>last Wednesday</item>
+        <item>last Thursday</item>
+        <item>last Friday</item>
+        <item>last Saturday</item>
+        <item>last Sunday</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>No response</item>
+        <item>ᱦᱮᱸᱚ</item>
+        <item>Maybe</item>
+        <item>ᱵᱟ</item>
+    </string-array>
+    <string-array name="sagittarius_info">
+        <item>ᱫᱷᱱᱩ</item>
+        <item>ᱫᱷᱱᱩ</item>
+        <item>23/11 - 21/12</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>ᱣᱤᱨᱤᱥᱪᱤᱠ</item>
+        <item>ᱣᱤᱨᱤᱥᱪᱤᱠ</item>
+        <item>24/10 - 22/11</item>
+    </string-array>
+    <string-array name="serie_a">
+        <item>1</item>
+        <item>ᱥᱤᱨᱤ ᱚ</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>ᱣᱤᱨᱤᱥᱵ</item>
+        <item>ᱣᱤᱨᱤᱥᱵ</item>
+        <item>20/4 - 20/5</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>ᱢᱟᱨᱥᱟᱞ ᱫᱩᱣᱤᱯ</item>
+        <item>Midway Island</item>
+        <item>ᱦᱟᱣᱟᱤ</item>
+        <item>ᱚᱞᱟᱥᱠᱟ</item>
+        <item>ᱯᱮᱪᱤᱯᱤᱪ ᱥᱢᱳᱭ</item>
+        <item>ᱛᱤᱡᱩᱟᱸᱟ</item>
+        <item>ᱮᱨᱤᱡᱳᱸᱟ</item>
+        <item>ᱪᱤᱦᱩᱟᱦᱩᱟ</item>
+        <item>ᱵᱩᱨᱩ ᱥᱢᱳᱭ</item>
+        <item>ᱛᱟᱞᱟ ᱚᱢᱨᱤᱠᱟ</item>
+        <item>ᱛᱟᱞᱟ ᱥᱢᱳᱭ</item>
+        <item>ᱢᱮᱠᱥᱤᱠᱳ ᱥᱦᱳᱨ</item>
+        <item>Saskatchewan</item>
+        <item>ᱵᱳᱜᱳᱛᱟ</item>
+        <item>ᱯᱩᱨᱣᱤ ᱥᱢᱳᱭ</item>
+        <item>Venezuela</item>
+        <item>ᱚᱴᱞᱟᱸᱛᱤᱠ ᱥᱢᱳᱭ (ᱵᱟᱨᱵᱟᱫᱳᱥ)</item>
+        <item>ᱚᱴᱞᱟᱸᱛᱤᱠ ᱥᱢᱳᱭ (ᱠᱱᱟᱲᱟ)</item>
+        <item>Manaus</item>
+        <item>ᱥᱚᱸᱛᱤᱭᱟᱜᱳ</item>
+        <item>Newfoundland</item>
+        <item>ᱵᱨᱟᱥᱤᱞᱤᱭᱟ</item>
+        <item>Buenos Aires</item>
+        <item>ᱜᱨᱮᱮᱱᱞᱚᱸᱫ</item>
+        <item>ᱢᱳᱸᱛᱮᱣᱤᱲᱤᱭᱳ</item>
+        <item>ᱛᱟᱞᱟ-ᱚᱴᱞᱟᱱᱤᱠ</item>
+        <item>ᱮᱡᱳᱨᱮᱥ</item>
+        <item>ᱠᱮᱯ ᱣᱨᱫᱮ</item>
+        <item>Casablanca</item>
+        <item>ᱞᱸᱰᱱ, ᱫᱩᱵᱞᱤᱱ</item>
+        <item>ᱮᱢᱥᱴᱨᱰᱮᱢ, ᱵᱨᱞᱤᱱ</item>
+        <item>ᱵᱞᱜᱨᱚᱫᱮ</item>
+        <item>ᱵᱨᱚᱥᱚᱮᱞᱥ</item>
+        <item>ᱥᱟᱨᱟᱜᱮᱵᱷᱳ</item>
+        <item>Windhoek</item>
+        <item>ᱯᱚᱥᱪᱤᱢ ᱚᱯᱷᱨᱤᱠᱟ ᱥᱢᱳᱭ</item>
+        <item>ᱚᱢᱢᱟᱱ, ᱡᱳᱨᱫᱟᱱ</item>
+        <item>ᱮᱛᱷᱮᱱᱥ, ᱤᱥᱛᱟᱸᱵᱩᱞ</item>
+        <item>Beirut, Lebanon</item>
+        <item>ᱠᱚᱨᱤᱳ</item>
+        <item>ᱦᱮᱞᱥᱤᱸᱠᱤ</item>
+        <item>ᱭᱨᱩᱥᱚᱞᱮᱢ</item>
+        <item>ᱢᱤᱸᱥᱠ</item>
+        <item>ᱦᱨᱟᱨᱮ</item>
+        <item>ᱵᱜᱫᱟᱫ</item>
+        <item>ᱢᱳᱥᱠᱳ</item>
+        <item>ᱠᱩᱣᱮᱛ</item>
+        <item>ᱱᱟᱭᱨᱳᱵᱤ</item>
+        <item>ᱛᱮᱦᱨᱟᱱ</item>
+        <item>ᱵᱟᱠᱩ</item>
+        <item>ᱛᱤᱵᱤᱞᱤᱥᱤ</item>
+        <item>ᱭᱮᱨᱮᱣᱟᱱ</item>
+        <item>ᱫᱩᱵᱚᱤ</item>
+        <item>ᱠᱟᱵᱩᱞ</item>
+        <item>ᱤᱥᱞᱟᱢᱟᱵᱟᱫ, ᱠᱨᱟᱪᱤ</item>
+        <item>"Ural'sk"</item>
+        <item>Yekaterinburg</item>
+        <item>ᱠᱳᱞᱠᱟᱛᱟ</item>
+        <item>ᱥᱤᱨᱤ ᱞᱚᱸᱠᱟ</item>
+        <item>ᱠᱟᱴᱷᱢᱟᱸᱰᱩ</item>
+        <item>ᱚᱥᱛᱟᱱᱟ</item>
+        <item>ᱭᱟᱸᱜᱩᱱ</item>
+        <item>Krasnoyarsk</item>
+        <item>ᱵᱮᱸᱠᱳᱠ</item>
+        <item>ᱵᱤᱡᱤᱸᱜ</item>
+        <item>ᱦᱳᱸᱜ ᱠᱳᱸᱜ</item>
+        <item>ᱢᱟᱠᱟᱩ</item>
+        <item>ᱥᱤᱸᱜᱟᱯᱩᱨ</item>
+        <item>Irkutsk</item>
+        <item>ᱠᱩᱟᱞᱟᱞᱢᱯᱩᱨ</item>
+        <item>ᱯᱚᱨᱛᱷ</item>
+        <item>ᱛᱟᱤᱯᱤ</item>
+        <item>ᱥᱤᱭᱳᱞ</item>
+        <item>ᱴᱳᱠᱭᱳ, ᱳᱥᱟᱠᱟ</item>
+        <item>Yakutsk</item>
+        <item>ᱚᱫᱤᱞᱮᱫ</item>
+        <item>ᱰᱟᱨᱣᱤᱱ</item>
+        <item>ᱵᱨᱤᱥᱵᱮᱱ</item>
+        <item>ᱦᱳᱵᱟᱨᱛ</item>
+        <item>ᱥᱤᱰᱱᱤ, ᱠᱮᱱᱵᱨᱟ</item>
+        <item>Vladivostok</item>
+        <item>ᱜᱩᱟᱢ</item>
+        <item>ᱢᱟᱜᱟᱫᱟᱱ</item>
+        <item>ᱟᱸᱠᱞᱮᱰ</item>
+        <item>ᱯᱷᱤᱡᱤ</item>
+        <item>ᱛᱳᱸᱜᱟ</item>
+    </string-array>
+    <string-array name="travel_reminder_minutes_labels">
+        <item>᱓ ᱜᱷᱳᱸᱛᱟ ᱞᱟᱦᱟ ᱨᱮ</item>
+        <item>᱔ ᱜᱷᱳᱸᱛᱟ ᱞᱟᱦᱟ ᱨᱮ</item>
+        <item>᱕ ᱜᱷᱳᱸᱛᱟ ᱞᱟᱦᱟ ᱨᱮ</item>
+        <item>᱖ ᱜᱷᱳᱸᱛᱟ ᱞᱟᱦᱟ ᱨᱮ</item>
+        <item>᱑ ᱫᱤᱱ ᱞᱟᱦᱟ ᱨᱮ</item>
+    </string-array>
+    <string-array name="virgo_info">
+        <item>ᱠᱳᱱᱭᱟ</item>
+        <item>ᱠᱳᱱᱭᱟ</item>
+        <item>23/8 - 22/9</item>
+    </string-array>
+    <string-array name="week_header_name">
+        <item>ᱥᱤᱸᱜᱤ</item>
+        <item>ᱚᱛᱮ</item>
+        <item>ᱵᱟᱞᱮ</item>
+        <item>ᱥᱚᱜᱩ</item>
+        <item>ᱥᱚᱨᱫᱤ</item>
+        <item>ᱡᱨᱩᱢ</item>
+        <item>ᱱᱩᱦᱩᱢ</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Transparent</item>
+        <item>White background</item>
+    </string-array>
+</resources>

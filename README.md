@@ -1,7 +1,7 @@
 # Santali-Translations
-Translated Resource Files For Android Application And Android Os
+Translated Resource Files For Android Application and Android Os
 
-What the Project Is About ?
+What the Project is about ?
 
 The project is to bring the Santali Language Support to the Android Devices and Android Application.
 As I have a MIUI Device, the translation work will first begin for MIUI Device and later on for other devices. 
@@ -13,7 +13,7 @@ Anybody who know's the language from top to bottom, who speaks the language and 
 
 How to Edit?
 
-Translators just need to go to MIUI > app >   OR  MIUI > priv-app >  folders. After moving into the app folder or priv-app folder translators need to choose the application or folder they want to work with.After choosing the specific folder translators need to go ( res ) folder and then values-sat-rIN and open the folllowing files... arrays.xml plurals.xml and strings.xml The work need to be done in these files. Sometimes only strings.xml file can only be found.
+Translators just need to go to MIUI > app >   OR  MIUI > priv-app >  folders. After moving into the app folder or priv-app folder translators need to choose the application or folder they want to work with.After choosing the specific folder translators need to go ( res ) folder and then values-sat-rIN and open the following files... arrays.xml plurals.xml and strings.xml The work need to be done in these files. Sometimes only strings.xml file can only be found.
 
 Where do you need to make the changes ?
 

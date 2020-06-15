@@ -95,7 +95,7 @@
     <string name="countdown_notify_before_3_day_title">Countdown: %1$s in 3 days</string>
     <string name="countdown_notify_title">Countdown: %1$s</string>
     <string name="countdown_secondary_tag">Countdown</string>
-    <string name="countdown_today">ᱛᱮᱦᱮᱧ</string>
+    <string name="countdown_today">ᱛᱮᱦᱮᱸᱧ</string>
     <string name="create_an_account_desc">&quot;Calendar works better with a Mi Account.
 
 • Access it from any web browser.
@@ -432,7 +432,7 @@
     <string name="setting_holiday_display_desc">Holiday cards are located below your agenda on the home page</string>
     <string name="setting_holiday_reminder">Holiday reminder</string>
     <string name="setting_others">Additional</string>
-    <string name="setting_title_about">ᱞᱟᱹᱜᱤᱛ</string>
+    <string name="setting_title_about">ᱵᱟᱵᱚᱛ</string>
     <string name="setting_title_holiday_display">Show holidays</string>
     <string name="setting_title_import_todo">Import tasks</string>
     <string name="setting_title_policy">Privacy Policy</string>
@@ -470,7 +470,7 @@
     <string name="time_zone">Time zone</string>
     <string name="timezone_label">Time zone</string>
     <string name="title_p_tracker">Menstruation</string>
-    <string name="today">ᱛᱮᱦᱮᱧ</string>
+    <string name="today">ᱛᱮᱦᱮᱸᱧ</string>
     <string name="today_at_time_fmt">Today at %s</string>
     <string name="today_no_events">No events</string>
     <string name="todays_panchang_title">&quot;Today\'s Panchang&quot;</string>
